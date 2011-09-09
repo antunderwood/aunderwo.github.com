@@ -7,4 +7,4 @@ footer: true
 ---
 ### Geek Tips ###
 This page will contain links to pages with tips
-[Unix Tips](unix_tips.html)
+[Unix Tips](unix.html)
