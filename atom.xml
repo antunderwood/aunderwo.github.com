@@ -4,7 +4,7 @@
   <title>Github Blog</title>
   <link href="http://aunderwo.github.com/atom.xml" rel="self"/>
   <link href="http://aunderwo.github.com/"/>
-  <updated>2011-09-09T16:42:14+01:00</updated>
+  <updated>2011-09-09T16:45:57+01:00</updated>
   <id>http://aunderwo.github.com/</id>
   <author>
     <name>Anthony Underwood</name>
@@ -17,7 +17,7 @@
     <link href="http://aunderwo.github.com/blog/2011/09/09/my-first-post/"/>
     <updated>2011-09-09T16:04:00+01:00</updated>
     <id>http://aunderwo.github.com/blog/2011/09/09/my-first-post</id>
-    <content type="html">&lt;h1&gt;Nothing Here to See&lt;/h1&gt;
+    <content type="html">&lt;h3&gt;Nothing Here to See&lt;/h3&gt;
 
 &lt;p&gt;No honestly this really is just a test. Move on now &amp;#8230;..&lt;/p&gt;
 </content>
