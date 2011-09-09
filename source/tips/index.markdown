@@ -2,7 +2,6 @@
 layout: page
 title: "Tips"
 date: 2011-09-09 15:50
-comments: true
 sharing: true
 footer: true
 ---
