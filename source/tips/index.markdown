@@ -6,5 +6,5 @@ comments: true
 sharing: true
 footer: true
 ---
-# Geek Tips #
+### Geek Tips ###
 This page will contain links to pages with tips
